@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/angelis-reis/sambIpsum/static/css/main.f8cd4d25.chunk.css",
+    "main.js": "/angelis-reis/sambIpsum/static/js/main.2a78dbab.chunk.js",
+    "main.js.map": "/angelis-reis/sambIpsum/static/js/main.2a78dbab.chunk.js.map",
+    "runtime-main.js": "/angelis-reis/sambIpsum/static/js/runtime-main.7f5b60cc.js",
+    "runtime-main.js.map": "/angelis-reis/sambIpsum/static/js/runtime-main.7f5b60cc.js.map",
+    "static/js/2.8b3934f6.chunk.js": "/angelis-reis/sambIpsum/static/js/2.8b3934f6.chunk.js",
+    "static/js/2.8b3934f6.chunk.js.map": "/angelis-reis/sambIpsum/static/js/2.8b3934f6.chunk.js.map",
+    "index.html": "/angelis-reis/sambIpsum/index.html",
+    "static/css/main.f8cd4d25.chunk.css.map": "/angelis-reis/sambIpsum/static/css/main.f8cd4d25.chunk.css.map",
+    "static/js/2.8b3934f6.chunk.js.LICENSE.txt": "/angelis-reis/sambIpsum/static/js/2.8b3934f6.chunk.js.LICENSE.txt",
+    "static/media/linkedin.156451cc.png": "/angelis-reis/sambIpsum/static/media/linkedin.156451cc.png",
+    "static/media/geral-style.css": "/angelis-reis/sambIpsum/static/media/roda-samba2.6951bad7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f5b60cc.js",
+    "static/js/2.8b3934f6.chunk.js",
+    "static/css/main.f8cd4d25.chunk.css",
+    "static/js/main.2a78dbab.chunk.js"
+  ]
+}
