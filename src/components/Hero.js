@@ -106,7 +106,7 @@ function Hero(props) {
                 <div className = "hero-text">
                     <div className = "titulo">
                         <h1 className="hero-text-1">
-                            Samb
+                            Samba
                         </h1>
                         <h1 className = "hero-text-2">
                             Ipsum
