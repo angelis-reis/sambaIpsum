@@ -158,7 +158,9 @@ class App extends React.Component {
 
                 // console.log("foi if ")
 
-                this.state.changeHero = "hero2"
+                // this.state.changeHero = "hero2"
+                // retirada da mudança do Hero até trocar a imagem do hero 1
+                this.state.changeHero = "hero"
                 
                 
             }
