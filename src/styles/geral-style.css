@@ -23,7 +23,9 @@ html {
     height: 1024px;
     width: 100%;
     background-color: #E9E9E9;
-    background-image: url("../images/roda-samba1.jpeg");
+    /* background-image: url("../images/roda-samba1.jpeg"); */
+    /* mudança da imagem de fundo do hero1 */
+    background-image: url("../images/roda-samba2.jpeg");
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
