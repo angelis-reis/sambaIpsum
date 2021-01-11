@@ -36,9 +36,9 @@ class App extends React.Component {
 
               "\r\n    Deixa a vida me levar, vida leva eu. Eu quero ver o caldeirão ferver. Põe pimenta pra arder. Já mandei botar dendê. Confusão eu não arrumo, mas também não peço arrego.\r\n ",
 
-              "\r\n    Se eu quiser fumar eu fumo, se eu quiser beber eu bebo, pago tudo que consumo com suor do meu emprego. O samba é pai do prazer, o samba é filho da dor. O livro é igual ao samba: pode até agonizar, mas não morre.Sambar é chorar de alegria, é sorrir de nostalgia dentro da melodia. Quem samba na areia do mar é sereia! \r\n",              
+              "\r\n    Se eu quiser fumar eu fumo, se eu quiser beber eu bebo, pago tudo que consumo com suor do meu emprego. O samba é pai do prazer, o samba é filho da dor. O livro é igual ao samba: pode até agonizar, mas não morre. Sambar é chorar de alegria, é sorrir de nostalgia dentro da melodia. Quem samba na areia do mar é sereia! \r\n",              
 
-              "\r\n    Quem samba não nega que o samba carrega esse dom de curar.Brasil, essas nossas verdes matas, cachoeiras e cascatas de colorido sutil; e neste lindo céu de azul anil, emolduram a Aquarela do meu Brasil! Trabalha, de janeiro a janeiro, em fevereiro cai nas delícias da folia. Mestre-sala e porta-bandeira, riscam o chão de poesia.\r\n ",
+              "\r\n    Quem samba não nega que o samba carrega esse dom de curar. Brasil, essas nossas verdes matas, cachoeiras e cascatas de colorido sutil; e neste lindo céu de azul anil, emolduram a Aquarela do meu Brasil! Trabalha, de janeiro a janeiro, em fevereiro cai nas delícias da folia. Mestre-sala e porta-bandeira, riscam o chão de poesia.\r\n ",
 
               "\r\n    Há quem fale que a vida da gente é um nada no mundo, é uma gota, é um tempo que nem dá um segundo. Há os que vão pra mata, pra cachoeira ou pro mar. Mas eu que sou do samba, vou pro terreiro sambar. Eu faço samba e amor até mais tarde.\r\n ",
 
@@ -48,7 +48,7 @@ class App extends React.Component {
             ],
 
 
-            ipsum : "\r\n    Quem não gosta de samba,  bom sujeito não é, É ruim da cabeça, ou doente do pé.\r\n "
+            ipsum : "\r\n    Quem não gosta de samba, bom sujeito não é, é ruim da cabeça, ou doente do pé.\r\n "
 
         }
 

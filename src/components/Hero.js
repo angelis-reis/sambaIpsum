@@ -113,7 +113,7 @@ function Hero(props) {
                         </h1>
                     </div>
                     <h2>
-                        Lore Ipsum pra quem não é ruim 
+                        Lorem Ipsum pra quem não é ruim 
                     </h2>
                     <h2>
                     da cabeça e nem doente do pé
