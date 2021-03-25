@@ -18,12 +18,8 @@ class App extends React.Component {
         super()
         this.state = {
             copia: "Copiar",
-
-            changeHero: "hero",
-            
+            changeHero: "hero",            
             numeroParagrafos : 1,
-
-            
 
             paragrafos : [
               "\r\n    Quem me vê sempre parado, distante, garante que eu não sei sambar. Tou me guardando pra quando o carnaval chegar. Menino quando morre vira anjo, Mulher vira uma flor no céu, Malandro quando morre vira samba.\r\n",
@@ -46,8 +42,6 @@ class App extends React.Component {
 
               "\r\n    O meu lugar é caminho de Ogum e Iansã, Lá tem samba até de manhã, Uma ginga em cada andar. O meu lugar, É cercado de luta e suor, Esperança num mundo melhor, E cerveja pra comemorar. O meu lugar, tem seus mitos e seres de luz, é bem perto de Osvaldo Cruz, Cascadura, Vaz Lobo e Irajá. O meu lugar, é sorriso é paz e prazer, o seu nome é doce dizer, Madureira, lá laiá, Madureira, lá laiá.\r\n "
             ],
-
-
             ipsum : "\r\n    Quem não gosta de samba, bom sujeito não é, é ruim da cabeça, ou doente do pé.\r\n "
 
         }
