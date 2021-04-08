@@ -1,17 +1,10 @@
-
-// lore ipsum generator
-
 import React, { useState } from "react"
-
 import Hero from "./components/Hero"
-
 import Footer from "./components/Footer"
-
 import "./styles/geral-style.css"
 
 
 function App() {
-
 
     const [numeroParagrafos, setNumeroParagrafos] = useState(1)
     const [hero, setHero] = useState("hero2")
@@ -41,7 +34,6 @@ function App() {
             "\r\n    O meu lugar é caminho de Ogum e Iansã, Lá tem samba até de manhã, Uma ginga em cada andar. O meu lugar, É cercado de luta e suor, Esperança num mundo melhor, E cerveja pra comemorar. O meu lugar, tem seus mitos e seres de luz, é bem perto de Osvaldo Cruz, Cascadura, Vaz Lobo e Irajá. O meu lugar, é sorriso é paz e prazer, o seu nome é doce dizer, Madureira, lá laiá, Madureira, lá laiá.\r\n "
             
     ]
-    
 
     function increment() {       
         setNumeroParagrafos ( (numeroParagrafos) => numeroParagrafos + 1 )
@@ -55,7 +47,6 @@ function App() {
     }
 
     function generateText() {
-
         
         function random(max) {
             const min = 0;
@@ -120,9 +111,7 @@ function App() {
         setHero("hero2")
     }
 
-
     return(
-
         <div> 
                            
             <Hero image = {hero} />
@@ -184,12 +173,9 @@ function App() {
                 </div>
 
             </div>
-            
             <Footer />
-
         </div>
     )
-
 }
 
 export default App
