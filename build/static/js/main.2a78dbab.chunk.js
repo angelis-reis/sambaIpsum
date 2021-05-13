@@ -264,144 +264,148 @@
 													Object(o.jsxs)('div', {
 														className: 'principal',
 														children: [
-															Object(
-																o.jsxs
-															)('div', {
-																className:
-																	'text',
-																children: [
-																	Object(
-																		o.jsx
-																	)('p', {
-																		className:
-																			'texto-paragrafo',
-																		children:
-																			'Par\xe1grafo(s)'
-																	}),
-																	Object(
-																		o.jsx
-																	)('p', {
-																		className:
-																			'texto-numero-paragrafo',
-																		children: this
-																			.state
-																			.numeroParagrafos
-																	}),
-																	Object(
-																		o.jsxs
-																	)('div', {
-																		className:
-																			'botoes-add-remove',
-																		children: [
-																			Object(
-																				o.jsx
-																			)(
-																				'div',
-																				{
-																					className:
-																						'',
-																					style: {
-																						textAlign:
-																							'center',
-																						marginTop:
-																							'5%'
-																					},
-																					children: Object(
-																						o.jsxs
-																					)(
-																						'button',
-																						{
-																							className:
-																								'icon-btn add-btn',
-																							onClick: this
-																								.addNumber,
-																							children: [
-																								Object(
-																									o.jsx
-																								)(
-																									'div',
-																									{
-																										className:
-																											'add-icon'
-																									}
-																								),
-																								Object(
-																									o.jsx
-																								)(
-																									'div',
-																									{
-																										className:
-																											'btn-txt',
-																										children:
-																											'Adicionar'
-																									}
-																								)
-																							]
-																						}
-																					)
-																				}
-																			),
-																			Object(
-																				o.jsx
-																			)(
-																				'div',
-																				{
-																					className:
-																						'',
-																					style: {
-																						textAlign:
-																							'center',
-																						marginTop:
-																							'0px'
-																					},
-																					children: Object(
+															Object(o.jsxs)(
+																'div',
+																{
+																	className:
+																		'text',
+																	children: [
+																		Object(
+																			o.jsx
+																		)('p', {
+																			className:
+																				'texto-paragrafo',
+																			children:
+																				'Par\xe1grafo(s)'
+																		}),
+																		Object(
+																			o.jsx
+																		)('p', {
+																			className:
+																				'texto-numero-paragrafo',
+																			children: this
+																				.state
+																				.numeroParagrafos
+																		}),
+																		Object(
+																			o.jsxs
+																		)(
+																			'div',
+																			{
+																				className:
+																					'botoes-add-remove',
+																				children: [
+																					Object(
 																						o.jsx
 																					)(
-																						'button',
+																						'div',
 																						{
 																							className:
-																								'icon-btn add-btn',
-																							onClick: this
-																								.menor1,
+																								'',
+																							style: {
+																								textAlign:
+																									'center',
+																								marginTop:
+																									'5%'
+																							},
+																							children: Object(
+																								o.jsxs
+																							)(
+																								'button',
+																								{
+																									className:
+																										'icon-btn add-btn',
+																									onClick: this
+																										.addNumber,
+																									children: [
+																										Object(
+																											o.jsx
+																										)(
+																											'div',
+																											{
+																												className:
+																													'add-icon'
+																											}
+																										),
+																										Object(
+																											o.jsx
+																										)(
+																											'div',
+																											{
+																												className:
+																													'btn-txt',
+																												children:
+																													'Adicionar'
+																											}
+																										)
+																									]
+																								}
+																							)
+																						}
+																					),
+																					Object(
+																						o.jsx
+																					)(
+																						'div',
+																						{
+																							className:
+																								'',
+																							style: {
+																								textAlign:
+																									'center',
+																								marginTop:
+																									'0px'
+																							},
 																							children: Object(
 																								o.jsx
 																							)(
-																								'div',
+																								'button',
 																								{
 																									className:
-																										'btn-txt',
-																									children:
-																										'Remover'
+																										'icon-btn add-btn',
+																									onClick: this
+																										.menor1,
+																									children: Object(
+																										o.jsx
+																									)(
+																										'div',
+																										{
+																											className:
+																												'btn-txt',
+																											children:
+																												'Remover'
+																										}
+																									)
 																								}
 																							)
 																						}
 																					)
-																				}
-																			)
-																		]
-																	}),
-																	Object(
-																		o.jsx
-																	)(
-																		'button',
-																		{
-																			className:
-																				'button-gerar',
-																			onClick: this
-																				.gerarIpsum,
-																			children: Object(
-																				o.jsx
-																			)(
-																				'h2',
-																				{
-																					children:
-																						'Gerar'
-																				}
-																			)
-																		}
-																	)
-																]
-															}),
+																				]
+																			}
+																		),
+																		Object(
+																			o.jsx
+																		)(
+																			'button',
+																			{
+																				className:
+																					'button-gerar',
+																				onClick: this
+																					.gerarIpsum,
+																				children: Object(
+																					o.jsx
+																				)(
+																					'h2',
+																					{
+																						children:
+																							'Gerar'
+																					}
+																				)
+																			}
+																		)
+																	]
+																}
+															),
 															Object(o.jsx)(
 																'div',
 																{

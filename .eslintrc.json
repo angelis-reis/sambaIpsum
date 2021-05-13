@@ -6,7 +6,7 @@
 		"jest": true,
 		"es2021": true
 	},
-	"plugins": ["react", "jsx-a11y", "import"],
+	"plugins": ["react", "jsx-a11y", "import", "only-warn"],
 	"extends": ["airbnb", "prettier", "plugin:react/recommended"],
 	"parserOptions": {
 		"ecmaFeatures": {
