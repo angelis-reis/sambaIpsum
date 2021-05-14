@@ -3,4 +3,8 @@ import ReactDom from 'react-dom';
 
 import App from './App';
 
+import { registerServiceWorker } from './serviceWorker';
+
+registerServiceWorker();
+
 ReactDom.render(<App />, document.getElementById('root'));
