@@ -1,0 +1,19 @@
+npm install eslint --save-dev
+./node_modules/.bin/eslint --init // configure it using AIRBNB
+npm install --save-dev --save-exact prettier
+npm install --save-dev eslint-config-prettier
+
+Copy the config files to the root folder (overwriting the generated .eslintrc.json )
+
+// In old projects, to format all files run: npx prettier --write .
+
+
+
+
+
+agora a integração do prettier com o eslint é assim :
+"editor.codeActionsOnSave": {
+
+    // For ESLint
+
+    "source.fixAll.eslint": true,
